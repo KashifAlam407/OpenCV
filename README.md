@@ -7,6 +7,7 @@ This collection showcases various computer vision projects utilizing OpenCV, foc
 
 ## 📁 Repository Structure
 
+```
 OpenCV/
 ├── 1_display_image.py
 ├── 2_matplotlib_display.py
@@ -20,10 +21,7 @@ OpenCV/
 ├── .gitignore
 ├── LICENSE
 └── README.md
-
-yaml
-Copy
-Edit
+```
 
 ---
 
@@ -45,47 +43,51 @@ Edit
    ```bash
    git clone https://github.com/KashifAlam407/OpenCV.git
    cd OpenCV
-Install the required libraries:
+   ```
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run a project script:
+2. **Install the required libraries**:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-bash
-Copy
-Edit
-python 1_display_image.py
-Ensure you have the necessary image files in the working directory or update the script paths accordingly.
+3. **Run a project script**:
+   ```bash
+   python 1_display_image.py
+   ```
 
-🛠 Requirements
+*Ensure you have the necessary image files in the working directory or update the script paths accordingly.*
+
+---
+
+## 🛠 Requirements
+
 The projects primarily use the following Python libraries:
 
-opencv-python
+- `opencv-python`
+- `matplotlib`
+- `numpy`
 
-matplotlib
+These are listed in the `requirements.txt` file for easy installation.
 
-numpy
+---
 
-These are listed in the requirements.txt file for easy installation.
+## 🎯 Purpose
 
-🎯 Purpose
 This repository serves as a learning resource for:
 
-Students exploring computer vision with OpenCV.
+- Students exploring computer vision with OpenCV.
+- Robotics enthusiasts implementing vision-based applications.
+- Developers seeking practical examples of image processing techniques.
 
-Robotics enthusiasts implementing vision-based applications.
+---
 
-Developers seeking practical examples of image processing techniques.
+## 📬 Connect with Me
 
-📬 Connect with Me
-Kashif Alam – Robotics Engineer & Programmer
+**Kashif Alam** – Robotics Engineer & Programmer  
+- GitHub: [@KashifAlam407](https://github.com/KashifAlam407)  
+- YouTube: [@kashifalam](https://www.youtube.com/@electroboticsai)  
+- Instagram: [@kashifalam0407](https://instagram.com/kashifalam0407)
 
-GitHub: @KashifAlam407
+---
 
-YouTube: @kashifalam
-
-Instagram: @kashifalam0407
-
-⭐ If you find this repository helpful, please star it and share it with others!
+⭐ *If you find this repository helpful, please star it and share it with others!*
